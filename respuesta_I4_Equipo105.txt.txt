@@ -2,3 +2,7 @@ A. Amarillo
 B. Amarillo
 C. Amarillo
 D. El de Beta
+E. Ningun integrante tuvo problemas al hacer el push.
+F y G. Como todos los integrantes habian actualizado el repo antes de subirlo no se genero el problema de querer sobreescribir los datos.
+H. Si cada integrante hiciera el push -f creemos que quedaria el cambio del ultimo en realizarlo que seria GAMMA.
+I. Deberia cada integrante actualizar el repositorio antes para asi ver los cambios que se realizaron y no intentar pisarlos.
